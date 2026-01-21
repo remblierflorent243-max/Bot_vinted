@@ -1,0 +1,5 @@
+{
+  "name": "VintedSniper AI",
+  "description": "A high-performance dashboard for tracking fashion deals and analyzing item value using Gemini AI. Features a simulated live feed and profit analytics.",
+  "requestFramePermissions": []
+}
